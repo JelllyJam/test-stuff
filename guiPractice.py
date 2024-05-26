@@ -1,5 +1,4 @@
 import tkinter as tk
-import customtkinter as ctk
 
 #making a window
 root = tk.Tk() #root is just an arbitrary name 
