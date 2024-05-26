@@ -10,3 +10,4 @@ label = tk.Label(root, text='you can put anything in here for the text', font = 
 label.pack()
 
 root.mainloop()
+print('done')
