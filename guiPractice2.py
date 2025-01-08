@@ -5,6 +5,7 @@ ctk.set_default_color_theme('dark-blue')
 
 root = ctk.CTk()
 root.geometry('800x600')
+root.title('gui practice #2')
 
 def login():
     print('login complete')
